@@ -1,0 +1,28 @@
+body{
+    background-image:
+      url('http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif');
+  font-family: Arial;
+    background-size: auto 100vh
+      heigh: 100vh 
+    
+  }
+  .menu {background-image:url('https://www.ecopetit.cat/wpic/mpic/54-548046_1920x1080-beautiful-blackboard-wallpapers-faded-black-background-hd.jpg');
+  }
+  .menu li {list-style:none;
+    
+  }
+  .li{color: wite;}
+  
+  
+  a {text-decoration:none;
+    color:whitesmoke;
+  }
+  a:hover {text-decore}
+  .menu ul{display:flex;
+  justify-content: space-between;
+  }
+  .site-title {
+    text-align: center;
+    color:whitesmoke; 
+  }
+  .site-subtitle{color:whitesmoke;}
